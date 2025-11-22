@@ -6,7 +6,8 @@
   <a href="https://www.linkedin.com/in/Dilli Babu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" />
   </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="mailto:dillibabu5757
+    @gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
   </a>
 </p>
