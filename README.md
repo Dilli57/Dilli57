@@ -6,8 +6,7 @@
   <a href="https://www.linkedin.com/in/Dilli Babu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" />
   </a>
-  <a href="mailto:dillibabu5757
-    @gmail.com" target="_blank">
+  <a href="mailto:dillibabu5757@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
   </a>
 </p>
@@ -21,7 +20,7 @@
 - 🛠️ Tools I use: **Python, SQL, Excel, Power BI**
 - 🎯 Goal: Use data to **solve real business problems** and support decision-making
 - 🌱 Currently improving: **Advanced SQL, Dashboard design & storytelling**
-- 📫 Reach me at: **yourmail@gmail.com**
+- 📫 Reach me at: **dillibabu5757@gmail.com**
 
 ---
 
@@ -70,20 +69,20 @@ Here are some projects you can pin on your profile:
 - Added slicers for easy filtering by month/region
 
 > 💡 Create separate repos for each project, and link them here:
-> - [`sales-analysis-project`](https://github.com/YOUR-USERNAME/sales-analysis-project)
-> - [`customer-churn-sql-powerbi`](https://github.com/YOUR-USERNAME/customer-churn-sql-powerbi)
-> - [`excel-financial-dashboard`](https://github.com/YOUR-USERNAME/excel-financial-dashboard)
+> - [`Iris-data-analysis-project`](https://github.com/Dilli57/Iris-data-analysis-project.git)
+> - [`financial-analysis-projects`](https://github.com/Dilli57/financial-analysis-projects.git)
+> - [`E-Commerce-sales-project`](https://github.com/Dilli57/E-Commerce-sales-project.git)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dilli57&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilli57" alt="GitHub Streak" />
 </p>
 
 ---
