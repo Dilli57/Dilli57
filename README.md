@@ -3,7 +3,7 @@
 <h3 align="center">Data Analyst | Turning raw data into clear insights</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Dilli Babu" target="_blank">
+  <a href="https://www.linkedin.com/in/Dilli Babu" >
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" />
   </a>
   <a href="mailto:dillibabu5757@gmail.com" target="_blank">
@@ -28,7 +28,7 @@
 
 ### 🗄️ Data & Databases
 - SQL (Joins, CTEs, Window Functions)
-- MySQL / PostgreSQL
+- MySQL 
 
 ### 🐍 Programming
 - Python (Pandas, NumPy)
@@ -38,7 +38,7 @@
 ### 📊 BI & Visualization
 - Power BI
 - Excel (Pivot Tables, Lookup, Charts)
-- Basic Tableau (if you know it)
+- Basic Tableau 
 
 ### ⚙️ Other
 - Git & GitHub
