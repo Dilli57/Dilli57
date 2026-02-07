@@ -77,13 +77,8 @@ Here are some projects you can pin on your profile:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dilli57&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilli57&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilli57" alt="GitHub Streak" />
-</p>
 
 ---
 
