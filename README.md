@@ -3,8 +3,8 @@
 <h3 align="center">Data Analyst | Turning raw data into clear insights</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Dilli Babu" >
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" />
+  <a href="https://www.linkedin.com/in/Dilli Babu">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"/>
   </a>
   <a href="mailto:dillibabu5757@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
