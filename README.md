@@ -1,6 +1,6 @@
 <!-- PROFESSIONAL DATA ANALYST GITHUB PROFILE README -->
 
-<h1 align="center">M Dilli</h1>
+<h1 align="center">M Dilli Babu</h1>
 <h3 align="center">Data Analyst | SQL • Python • Excel • Power BI | Financial & Business Analytics</h3>
 
 <p align="center">
