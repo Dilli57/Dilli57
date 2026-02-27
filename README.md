@@ -1,92 +1,101 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm M Dilli</h1>
-<h3 align="center">Data Analyst | Turning raw data into clear insights</h3>
+<!-- PROFESSIONAL DATA ANALYST GITHUB PROFILE README -->
+
+<h1 align="center">M Dilli</h1>
+<h3 align="center">Data Analyst | SQL • Python • Excel • Power BI | Financial & Business Analytics</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Dilli Babu">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/dilli-babu-2b943522b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:dillibabu5757@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+  <a href="https://dillibabu-data-9flxw8v.gamma.site">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-2F855A?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:dillibabu5757@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## Professional Summary
 
-- 🔍 Aspiring **Data Analyst** with a background in **Electrical & Electronics Engineering**
-- 📊 I enjoy working with **data cleaning, analysis, and visualization**
-- 🛠️ Tools I use: **Python, SQL, Excel, Power BI**
-- 🎯 Goal: Use data to **solve real business problems** and support decision-making
-- 🌱 Currently improving: **Advanced SQL, Dashboard design & storytelling**
-- 📫 Reach me at: **dillibabu5757@gmail.com**
+Data Analyst with strong expertise in **SQL, Python, Excel, and Power BI**, specializing in transforming raw data into actionable business insights. Experienced in **financial analysis, KPI reporting, dashboard development, and data validation**. Proven ability to analyze large datasets, automate reporting workflows, and build interactive dashboards to support strategic decision-making.
 
 ---
 
-## 🧠 Skills & Tools
+## Technical Skills
 
-### 🗄️ Data & Databases
-- SQL (Joins, CTEs, Window Functions)
-- MySQL 
+**Programming & Data Analysis:**  
+SQL (Joins, CTEs, Window Functions), Python (Pandas, NumPy), Data Cleaning, Exploratory Data Analysis  
 
-### 🐍 Programming
-- Python (Pandas, NumPy)
-- Data cleaning & EDA
-- Matplotlib, Seaborn
+**Business Intelligence & Visualization:**  
+Power BI (DAX, Data Modeling, Dashboards), Excel (Pivot Tables, XLOOKUP, KPI Dashboards), Tableau (Basic)  
 
-### 📊 BI & Visualization
-- Power BI
-- Excel (Pivot Tables, Lookup, Charts)
-- Basic Tableau 
+**Data Management & Tools:**  
+MySQL, Git, GitHub, Jupyter Notebook, Excel, PowerPoint  
 
-### ⚙️ Other
-- Git & GitHub
-- Basic statistics (mean, median, correlation, distributions)
+**Analytics Expertise:**  
+KPI Reporting, Financial Analysis, Data Validation, Trend Analysis, Dashboard Development  
 
 ---
 
-## 📂 Highlight Projects
+## Key Projects
 
-Here are some projects you can pin on your profile:
+### Financial Analysis Dashboard
+**Tools:** SQL, Python, Power BI, Excel  
+- Analyzed financial transaction data of 5,000+ customers  
+- Built interactive dashboards to track revenue, approvals, and performance KPIs  
+- Delivered insights supporting financial planning and business decisions  
 
-### 1️⃣ Sales Performance Analysis
-**Tech:** Python, Pandas, Matplotlib  
-- Cleaned and transformed raw sales data  
-- Identified top-performing products, regions, and time periods  
-- Created visualizations to show revenue trends and growth
+### E-Commerce Sales Analysis
+**Tools:** SQL, Python, Power BI  
+- Analyzed 38,000+ sales records to identify revenue and profitability trends  
+- Created dashboards to monitor business performance  
+- Identified key customer segments and growth opportunities  
 
-### 2️⃣ Customer Churn Analysis
-**Tech:** SQL, Power BI  
-- Wrote SQL queries to segment customers  
-- Analyzed churn patterns and key risk factors  
-- Built a dashboard to monitor churn KPIs
-
-### 3️⃣ Excel Dashboard – Financial KPI Tracker
-**Tech:** Excel  
-- Built an interactive dashboard using Pivot Tables and charts  
-- Tracked revenue, expenses, and profit over time  
-- Added slicers for easy filtering by month/region
-
-> 💡 Create separate repos for each project, and link them here:
-> - [`Iris-data-analysis-project`](https://github.com/Dilli57/Iris-data-analysis-project.git)
-> - [`financial-analysis-projects`](https://github.com/Dilli57/financial-analysis-projects.git)
-> - [`E-Commerce-sales-project`](https://github.com/Dilli57/E-Commerce-sales-project.git)
+### Customer Analytics & KPI Reporting
+**Tools:** SQL, Excel, Power BI  
+- Built KPI dashboards for business performance monitoring  
+- Automated reporting workflows and improved data accuracy  
 
 ---
 
-## 📊 GitHub Stats
+## Portfolio
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilli57&show_icons=true&theme=tokyonight)
-
+View complete portfolio and live dashboards:  
+https://dillibabu-data-9flxw8v.gamma.site
 
 ---
 
-## 🤝 Let’s Connect
+## GitHub Analytics
 
-- 💼 LinkedIn: [Dilli Babu](https://www.linkedin.com/in/dilli-babu-2b943522b/)
-- 📧 Email:dillibabu5757@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dilli57&show_icons=true&theme=default&hide_border=true"/>
+</p>
 
-Thanks for visiting my profile! ⭐  
-If you like my projects, feel free to **star** them or **connect with me** 🚀
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilli57&theme=default&hide_border=true"/>
+</p>
+
+---
+
+## Professional Goals
+
+- Contribute to data-driven decision-making in a growth-focused organization  
+- Develop advanced analytics and business intelligence solutions  
+- Build scalable dashboards and automated reporting systems  
+
+---
+
+## Contact Information
+
+LinkedIn: https://www.linkedin.com/in/dilli-babu-2b943522b/  
+Portfolio: https://dillibabu-data-9flxw8v.gamma.site  
+Email: dillibabu5757@gmail.com  
+
+---
+
+<p align="center">
+Open to Data Analyst, Financial Analyst, and Business Analyst opportunities
+</p>
 
